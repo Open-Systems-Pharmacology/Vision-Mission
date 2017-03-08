@@ -1,4 +1,4 @@
-Vision &amp; Mission of Open Systems Pharmacology project
+Vision &amp; Mission of Open Systems Pharmacology 
 
 #Vision
 Robust and reliable, easy-to-use modeling & simulation tools, processes and models for pharmaceutical and other life-sciences applications qualified and accepted by a scientific community from academia, regulatory agencies and industry available and open to everyone.
